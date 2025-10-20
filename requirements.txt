@@ -1,0 +1,12 @@
+# QEELGS Validation Suite - Python Dependencies
+# Exact versions used to generate published validation results
+# Install with: pip install -r requirements.txt
+
+numpy==1.26.4
+scipy==1.13.1
+
+# Optional: for visualization (not used in validation script)
+# matplotlib==3.8.4
+
+# Python version requirement: >=3.10 (for match-case and type hints)
+# Tested on Python 3.11.7 and 3.12.2
